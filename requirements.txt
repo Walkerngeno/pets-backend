@@ -18,5 +18,5 @@ psycopg2-binary==2.9.9
 python-dotenv
 SQLAlchemy==2.0.23
 typing_extensions
-Werkzeug==3.0.1
+Werkzeug
 zipp==3.17.0
